@@ -1,2 +1,5 @@
 # PCE-CS-III-ML-Club
-PCE16CE077-pranjal shah
+PCE16CE031 - Chayan Jain
+PCE16CE081 - Priyanshi Agrawal
+PCE16CE076 - PRAKHAR SINGHAL
+PCE16CE077- pranjal shah
