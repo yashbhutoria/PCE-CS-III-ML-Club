@@ -27,5 +27,5 @@
 
 | S.No. | Stars | Registration No. | Name | Git Repo Link |
 |-------|-------|------------------|------|---------------|
-| 1 || PCE17CS089 | Kuldeep Tailor ||
+| 1 | :star: | PCE17CS089 | Kuldeep Tailor ||
 | 2 || PCE17CS018 | Alfaij Mansuri | https://github.com/alfaijmansuri/MyMLpractice |
