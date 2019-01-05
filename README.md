@@ -6,7 +6,7 @@
 | 4 | | PCE16CE081 | Priyanshi Agrawal ||
 | 5 | | PCE16CE076 | PRAKHAR SINGHAL ||
 | 6 | | PCE16CE077 | pranjal shah | https://github.com/pranjal218/MyMLPractice.git |
-| 7 | | PCE16CE102 | Sudhanshu Jain ||
+| 7 | | PCE16CE102 | Sudhanshu Jain | https://github.com/blacksag/My-ML-Practice.git |
 | 8 | 1 :star: | PCE16CE307 | Sanjoli Jain | https://github.com/Sanjolijain04/My-ML-Practice |
 | 9 | | PCE16ce082 | pulkit agarwal ||
 | 10 | | PCE16CE106 | Swapnil Singh ||
