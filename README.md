@@ -1,3 +1,6 @@
+# Group Info
+
+## 4th Year
 | S.No. | Stars | Registration No. | Name | Git Repo Link |
 |-------|-------|------------------|------|---------------|
 | 1 | | PCE16CE031 | Chayan Jain ||
@@ -13,19 +16,20 @@
 | 11 | | PCE16CE080 | PREM SINGH RATHORE ||
 | 12 | | PCE16CE023 | Ayush Kumar ||
 | 13 | | PCE16CE129 | Abhishek Sharma ||
-| 14 | | PCE16CE075 | Piyush Vaishya |https://github.com/piyushvaishya/My-ML-Practice |
+| 14 | 1 :star: | PCE16CE075 | Piyush Vaishya |https://github.com/piyushvaishya/My-ML-Practice |
 | 15 | | PCE16CE068 | Mohit Saini | https://github.com/mohit8201/My-ML-Practice |
 | 16 | | PCE16CE306 |Reena Badesra||
 | 17 | | PCE16CE064 | Megha Gupta | https://github.com/gmegha12/My-ML-practice |
-| 18 | | PCE16CE308 | Rajendra Singh Devara ||
+| 18 | | PCE16CE308 | Rajendra Singh Devara | https://github.com/Rajendra14/My-ML-Practice |
 | 19 | | PCE16CE094 | Shruti Ganeriwal | https://github.com/shruti224/MyMLPractice |
 | 20 | | PCE16CE088 | Sakshi Agarwal |https://github.com/Sakshi-Agarwal/My-ML-Practice |
 | 21 | | PCE16CE104 | Suraj Kumar | https://github.com/srj789/My-Ml-Practice |
 | 22 | | PCE16CE301 | Mohit Agarwal ||
 | 23 | | PCE16CE095 | Shubham Kumar | https://github.com/PCE16CE095/My-ML-practices |
-## Wild Card
+
+## 3rd Year
 
 | S.No. | Stars | Registration No. | Name | Git Repo Link |
 |-------|-------|------------------|------|---------------|
-| 1 | :star: | PCE17CS089 | Kuldeep Tailor | https://github.com/tailorkuldeep/My-ML-Practice |
-| 2 || PCE17CS018 | Alfaij Mansuri | https://github.com/alfaijmansuri/MyMLpractice |
+| 1 | 1 :star: | PCE17CS089 | Kuldeep Tailor | https://github.com/tailorkuldeep/My-ML-Practice |
+| 2 | 2 :star: | PCE17CS018 | Alfaij Mansuri | https://github.com/alfaijmansuri/MyMLpractice |
