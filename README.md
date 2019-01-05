@@ -1,5 +1,4 @@
 # PCE-CS-III-ML-Club
-
 | S.No. | Registration No. | Name | Git Repo Link |
 |-------|------------------|------|---------------|
 | 1 | PCE16CE031 | Chayan Jain ||
@@ -20,3 +19,4 @@
 | 16 | PCE16CE306 |Reena Badesra||
 | 17 | PCE16CE064 | Megha Gupta ||
 | 18 | PCE16CE308 | Rajendra Singh Devara ||
+| 19 | PCE16CE094 | Shruti Ganeriwal ||
