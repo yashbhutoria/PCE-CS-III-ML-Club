@@ -21,6 +21,7 @@
 | 18 | PCE16CE308 | Rajendra Singh Devara ||
 | 19 | PCE16CE094 | Shruti Ganeriwal ||
 | 20 | PCE16CE088 | Sakshi Agarwal ||
+| 21 | PCE16CE104 | Suraj Kumar ||
 
 ## Wild Card
 | S.No. | Registration No. | Name | Git Repo Link |
