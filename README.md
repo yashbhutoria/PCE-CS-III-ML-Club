@@ -1,7 +1,7 @@
 | S.No. | Stars | Registration No. | Name | Git Repo Link |
 |-------|-------|------------------|------|---------------|
 | 1 | | PCE16CE031 | Chayan Jain ||
-| 2 | | PCE16CE085 | RISHINA DARGAR ||
+| 2 | | PCE16CE085 | RISHINA DARGAR | https://github.com/rishinadargar/My-ML-Practice |
 | 3 | | PCE16CE048 | Jai Prakash Vadera ||
 | 4 | | PCE16CE081 | Priyanshi Agrawal ||
 | 5 | | PCE16CE076 | PRAKHAR SINGHAL ||
