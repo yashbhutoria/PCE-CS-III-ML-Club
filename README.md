@@ -20,7 +20,7 @@
 | 18 | | PCE16CE308 | Rajendra Singh Devara ||
 | 19 | | PCE16CE094 | Shruti Ganeriwal | https://github.com/shruti224/MyMLPractice |
 | 20 | | PCE16CE088 | Sakshi Agarwal ||
-| 21 | | PCE16CE104 | Suraj Kumar ||
+| 21 | | PCE16CE104 | Suraj Kumar || https://github.com/srj789/My-Ml-Practice
 | 22 | | PCE16CE301 | Mohit Agarwal ||
 
 ## Wild Card
