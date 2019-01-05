@@ -12,3 +12,4 @@ PCE16CE106 - Swapnil Singh
 PCE16CE080 - PREM SINGH RATHORE
 PCE16CE023 - Ayush Kumar
 PCE16CE129 - Abhishek Sharma
+PCE16CE075 - Piyush Vaishya
