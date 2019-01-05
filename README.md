@@ -20,3 +20,4 @@
 | 17 | PCE16CE064 | Megha Gupta ||
 | 18 | PCE16CE308 | Rajendra Singh Devara ||
 | 19 | PCE16CE094 | Shruti Ganeriwal ||
+| 20 | PCE17CS089 | Kuldeep Tailor ||
