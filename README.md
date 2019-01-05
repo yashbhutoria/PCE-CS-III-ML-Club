@@ -13,7 +13,7 @@
 | 11 | | PCE16CE080 | PREM SINGH RATHORE ||
 | 12 | | PCE16CE023 | Ayush Kumar ||
 | 13 | | PCE16CE129 | Abhishek Sharma ||
-| 14 | :star: | PCE16CE075 | Piyush Vaishya |https://github.com/piyushvaishya/My-ML-Practice |
+| 14 | 1 :star: | PCE16CE075 | Piyush Vaishya |https://github.com/piyushvaishya/My-ML-Practice |
 | 15 | | PCE16CE068 | Mohit Saini | https://github.com/mohit8201/My-ML-Practice |
 | 16 | | PCE16CE306 |Reena Badesra||
 | 17 | | PCE16CE064 | Megha Gupta | https://github.com/gmegha12/My-ML-practice |
@@ -27,5 +27,5 @@
 
 | S.No. | Stars | Registration No. | Name | Git Repo Link |
 |-------|-------|------------------|------|---------------|
-| 1 | :star: | PCE17CS089 | Kuldeep Tailor | https://github.com/tailorkuldeep/My-ML-Practice |
-| 2 || PCE17CS018 | Alfaij Mansuri | https://github.com/alfaijmansuri/MyMLpractice |
+| 1 | 1 :star: | PCE17CS089 | Kuldeep Tailor | https://github.com/tailorkuldeep/My-ML-Practice |
+| 2 | 2 :star: | PCE17CS018 | Alfaij Mansuri | https://github.com/alfaijmansuri/MyMLpractice |
