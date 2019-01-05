@@ -1,6 +1,6 @@
-#Group Info
+# Group Info
 
-# 4th Year
+## 4th Year
 | S.No. | Stars | Registration No. | Name | Git Repo Link |
 |-------|-------|------------------|------|---------------|
 | 1 | | PCE16CE031 | Chayan Jain ||
