@@ -14,7 +14,7 @@
 | 9 | | PCE16ce082 | pulkit agarwal ||
 | 10 | | PCE16CE106 | Swapnil Singh ||
 | 11 | | PCE16CE080 | PREM SINGH RATHORE |https://github.com/rathoreprem/MYMLPRACTICE|
-| 12 | | PCE16CE023 | Ayush Kumar ||
+| 12 | | PCE16CE023 | Ayush Kumar | https://github.com/Ayushkr99/My-Ml-Practice |
 | 13 | | PCE16CE129 | Abhishek Sharma | https://github.com/Abhi2819sharma/MY-ML-Practice.git |
 | 14 | 1 :star: | PCE16CE075 | Piyush Vaishya |https://github.com/piyushvaishya/My-ML-Practice |
 | 15 | | PCE16CE068 | Mohit Saini | https://github.com/mohit8201/My-ML-Practice |
