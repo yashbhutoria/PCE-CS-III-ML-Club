@@ -13,7 +13,7 @@
 | 8 | 1 :star: | PCE16CE307 | Sanjoli Jain | https://github.com/Sanjolijain04/My-ML-Practice |
 | 9 | | PCE16ce082 | pulkit agarwal ||
 | 10 | | PCE16CE106 | Swapnil Singh ||
-| 11 | | PCE16CE080 | PREM SINGH RATHORE ||
+| 11 | | PCE16CE080 | PREM SINGH RATHORE |https://github.com/rathoreprem/MYMLPRACTICE|
 | 12 | | PCE16CE023 | Ayush Kumar ||
 | 13 | | PCE16CE129 | Abhishek Sharma ||
 | 14 | 1 :star: | PCE16CE075 | Piyush Vaishya |https://github.com/piyushvaishya/My-ML-Practice |
@@ -27,7 +27,10 @@
 | 22 | | PCE16CE301 | Mohit Agarwal ||
 | 23 | | PCE16CE095 | Shubham Kumar | https://github.com/PCE16CE095/My-ML-practices |
 | 24 | | PCE16CE052 | Jaya Sharma | https://github.com/10-jaya/my-ML-project |
-|25| | | PCE17CS703 | Pankaj Kumar||
+| 25 | | PCE16CE087 | Sahil Chopra | https://github.com/sahilcbm/MY-ML-Practicee |
+| 26 | | PCE17CS703 | Pankaj Kumar | https://github.com/pce17cs703-pankajkumar/MY-ML-Practice |
+| 27 | | PCE16CE039 | Eakta Sharma | https://github.com/ekta-sharma19/MY-ML-Practice.git |
+
 ## 3rd Year
 
 | S.No. | Stars | Registration No. | Name | Git Repo Link |
