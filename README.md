@@ -28,6 +28,7 @@
 | 23 | | PCE16CE095 | Shubham Kumar | https://github.com/PCE16CE095/My-ML-practices |
 | 24 | | PCE16CE052 | Jaya Sharma | https://github.com/10-jaya/my-ML-project |
 | 25 | | PCE16CE087 | Sahil Chopra | https://github.com/sahilcbm/MY-ML-Practicee |
+| 26 | | PCE17CS703 | Pankaj Kumar | https://github.com/pce17cs703-pankajkumar/MY-ML-Practice |
 
 ## 3rd Year
 
