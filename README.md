@@ -1,6 +1,6 @@
 # Group Info
 
-## 4th Year
+## 3rd Year
 | S.No. | Stars | Registration No. | Name | Git Repo Link |
 |-------|-------|------------------|------|---------------|
 | 1 | | PCE16CE031 | Chayan Jain ||
@@ -31,7 +31,7 @@
 | 26 | | PCE17CS703 | Pankaj Kumar | https://github.com/pce17cs703-pankajkumar/MY-ML-Practice |
 | 27 | | PCE16CE039 | Eakta Sharma | https://github.com/ekta-sharma19/MY-ML-Practice.git |
 
-## 3rd Year
+## 2nd Year
 
 | S.No. | Stars | Registration No. | Name | Git Repo Link |
 |-------|-------|------------------|------|---------------|
