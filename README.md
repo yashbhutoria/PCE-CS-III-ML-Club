@@ -24,7 +24,7 @@
 | 19 | | PCE16CE094 | Shruti Ganeriwal | https://github.com/shruti224/MyMLPractice |
 | 20 | | PCE16CE088 | Sakshi Agarwal |https://github.com/Sakshi-Agarwal/My-ML-Practice |
 | 21 | | PCE16CE104 | Suraj Kumar | https://github.com/srj789/My-Ml-Practice |
-| 22 | | PCE16CE301 | Mohit Agarwal ||
+| 22 | | PCE16CE301 | Mohit Agarwal ||https://github.com/manumohit/My-ML-Practice  |
 | 23 | | PCE16CE095 | Shubham Kumar | https://github.com/PCE16CE095/My-ML-practices |
 | 24 | | PCE16CE052 | Jaya Sharma | https://github.com/10-jaya/my-ML-project |
 
