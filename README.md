@@ -13,7 +13,7 @@
 | 8 | 1 :star: | PCE16CE307 | Sanjoli Jain | https://github.com/Sanjolijain04/My-ML-Practice |
 | 9 | | PCE16ce082 | pulkit agarwal ||
 | 10 | | PCE16CE106 | Swapnil Singh ||
-| 11 | | PCE16CE080 | PREM SINGH RATHORE ||
+| 11 | | PCE16CE080 | PREM SINGH RATHORE |https://github.com/rathoreprem/MYMLPRACTICE|
 | 12 | | PCE16CE023 | Ayush Kumar ||
 | 13 | | PCE16CE129 | Abhishek Sharma ||
 | 14 | 1 :star: | PCE16CE075 | Piyush Vaishya |https://github.com/piyushvaishya/My-ML-Practice |
