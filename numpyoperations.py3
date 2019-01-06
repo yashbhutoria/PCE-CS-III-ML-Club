@@ -22,7 +22,7 @@ print(z)
 
 #angle b/w two vectors
 
-cosangle = a.dot(b) / np.linalg.norm(a) * np.linalg.norm(b)
+cosangle = a.dot(b) / (np.linalg.norm(a) * np.linalg.norm(b))
 print(cosangle)
 
 # to print angle in radian
