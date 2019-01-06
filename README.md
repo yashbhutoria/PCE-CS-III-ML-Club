@@ -27,7 +27,7 @@
 | 22 | | PCE16CE301 | Mohit Agarwal ||
 | 23 | | PCE16CE095 | Shubham Kumar | https://github.com/PCE16CE095/My-ML-practices |
 | 24 | | PCE16CE052 | Jaya Sharma | https://github.com/10-jaya/my-ML-project |
-
+|25| | | PCE17CS703 | Pankaj Kumar||
 ## 3rd Year
 
 | S.No. | Stars | Registration No. | Name | Git Repo Link |
