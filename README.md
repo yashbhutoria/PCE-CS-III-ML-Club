@@ -30,6 +30,7 @@
 | 25 | | PCE16CE087 | Sahil Chopra | https://github.com/sahilcbm/MY-ML-Practicee |
 | 26 | | PCE17CS703 | Pankaj Kumar | https://github.com/pce17cs703-pankajkumar/MY-ML-Practice |
 | 27 | | PCE16CE039 | Eakta Sharma | https://github.com/ekta-sharma19/MY-ML-Practice.git |
+| 28 | | PCE16CE030 | Chahat Jain | https://github.com/Chahat1996/MY-ML-Practice.git |
 
 ## 2nd Year
 
