@@ -1,20 +1,20 @@
 # Group Info
 
 ## 3rd Year
-| S.No. | Stars | Registration No. | Name | Git Repo Link |
+| S.No. | Stars :star: | Registration No. | Name | Git Repo Link |
 |-------|-------|------------------|------|---------------|
 | 1 | | PCE16CE031 | Chayan Jain ||
-| 2 | 1 :star: | PCE16CE085 | Rishina Dargar | https://github.com/rishinadargar/My-ML-Practice |
+| 2 | 1 | PCE16CE085 | Rishina Dargar | https://github.com/rishinadargar/My-ML-Practice |
 | 3 | | PCE16CE081 | Priyanshi Agrawal | https://github.com/Priyanshi641/My-Practice-ML |
 | 4 | | PCE16CE077 | pranjal shah | https://github.com/pranjal218/MyMLPractice.git |
 | 5 | | PCE16CE102 | Sudhanshu Jain | https://github.com/blacksag/My-ML-Practice.git |
-| 6 | 1 :star: | PCE16CE307 | Sanjoli Jain | https://github.com/Sanjolijain04/My-ML-Practice |
+| 6 | 1 | PCE16CE307 | Sanjoli Jain | https://github.com/Sanjolijain04/My-ML-Practice |
 | 7 | | PCE16ce082 | pulkit agarwal |https://github.com/7790p/assingment|
 | 8 | | PCE16CE106 | Swapnil Singh | https://github.com/swapnil2306/my_ML_practice |
 | 9 | | PCE16CE080 | PREM SINGH RATHORE |https://github.com/rathoreprem/MYMLPRACTICE|
 | 10 | | PCE16CE023 | Ayush Kumar | https://github.com/Ayushkr99/My-Ml-Practice |
 | 11 | | PCE16CE129 | Abhishek Sharma | https://github.com/Abhi2819sharma/MY-ML-Practice.git |
-| 12 | 1 :star: | PCE16CE075 | Piyush Vaishya |https://github.com/piyushvaishya/My-ML-Practice |
+| 12 | 1 | PCE16CE075 | Piyush Vaishya |https://github.com/piyushvaishya/My-ML-Practice |
 | 13 | | PCE16CE068 | Mohit Saini | https://github.com/mohit8201/My-ML-Practice |
 | 14 | | PCE16CE306 |Reena Badesra| https://github.com/Reena239/MY-ML-PRACTICE |
 | 15 | | PCE16CE064 | Megha Gupta | https://github.com/gmegha12/My-ML-practice |
@@ -36,7 +36,7 @@
 
 ## 2nd Year
 
-| S.No. | Stars | Registration No. | Name | Git Repo Link |
+| S.No. | Stars :star: | Registration No. | Name | Git Repo Link |
 |-------|-------|------------------|------|---------------|
-| 1 | 2 :star: | PCE17CS089 | Kuldeep Tailor | https://github.com/tailorkuldeep/My-ML-Practice |
-| 2 | 2 :star: | PCE17CS018 | Alfaij Mansuri | https://github.com/alfaijmansuri/MyMLpractice |
+| 1 | 2 | PCE17CS089 | Kuldeep Tailor | https://github.com/tailorkuldeep/My-ML-Practice |
+| 2 | 2 | PCE17CS018 | Alfaij Mansuri | https://github.com/alfaijmansuri/MyMLpractice |
