@@ -32,7 +32,7 @@
 | 27 | | PCE16CE039 | Eakta Sharma | https://github.com/ekta-sharma19/MY-ML-Practice.git |
 | 28 | | PCE16CE030 | Chahat Jain | https://github.com/Chahat1996/MY-ML-Practice.git |
 |29 | | PCE16CE310 | Eshan Talwadiya | https://github.com/eshantalwadiya12345/My-ML-Practice.git |
-
+|30 | | PCE16CE034 | Diksha Bothra | https://github.com/dikshabothra/My-ML-Practice |
 ## 2nd Year
 
 | S.No. | Stars | Registration No. | Name | Git Repo Link |
