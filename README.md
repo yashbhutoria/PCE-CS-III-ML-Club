@@ -29,7 +29,7 @@
 | 24 | | PCE16CE052 | Jaya Sharma | https://github.com/10-jaya/my-ML-project |
 | 25 | | PCE16CE087 | Sahil Chopra | https://github.com/sahilcbm/MY-ML-Practicee |
 | 26 | | PCE17CS703 | Pankaj Kumar | https://github.com/pce17cs703-pankajkumar/MY-ML-Practice |
-| 27 | | PCE16CE039 | Eakta Sharma | https://github.com/ekta-sharma19/MY-ML-Practice.git |
+| 27 | | PCE16CE039 | Eakta Sharma | https://github.com/ekta-sharma19/MY_ML-Practice |
 | 28 | | PCE16CE030 | Chahat Jain | https://github.com/Chahat1996/MY-ML-Practice.git |
 |29 | | PCE16CE310 | Eshan Talwadiya | https://github.com/eshantalwadiya12345/My-ML-Practice.git |
 |30 | | PCE16CE034 | Diksha Bothra | https://github.com/dikshabothra/My-ML-Practice |
