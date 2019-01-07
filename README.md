@@ -32,6 +32,7 @@
 | 27 | | PCE16CE310 | Eshan Talwadiya | https://github.com/eshantalwadiya12345/My-ML-Practice.git |
 | 28 | | PCE16CE034 | Diksha Bothra | https://github.com/dikshabothra/My-ML-Practice |
 | 29 | | PCE16CE006 | Aditya Rajora | https://github.com/Adityarajora/MYMLPractice |
+| 30 | | PCE16CE062 | Manas | https://github.com/Manaskashyap/My-ML-Practice |
 
 ## 2nd Year
 
