@@ -33,6 +33,7 @@
 | 28 | | PCE16CE034 | Diksha Bothra | https://github.com/dikshabothra/My-ML-Practice |
 | 29 | | PCE16CE006 | Aditya Rajora | https://github.com/Adityarajora/MYMLPractice |
 | 30 | | PCE16CE062 | Manas | https://github.com/Manaskashyap/My-ML-Practice |
+| 31 | | PCE16CE092 | Shivansh Mathur | https://github.com/Shiva942/PCE-CS-III-ML-Club |
 
 ## 2nd Year
 
