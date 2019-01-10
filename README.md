@@ -39,5 +39,5 @@
 
 | S.No. | Stars :star: | Registration No. | Name | Git Repo Link |
 |-------|-------|------------------|------|---------------|
-| 1 | 8 | PCE17CS089 | Kuldeep Tailor | https://github.com/tailorkuldeep/My-ML-Practice |
+| 1 | 9 | PCE17CS089 | Kuldeep Tailor | https://github.com/tailorkuldeep/My-ML-Practice |
 | 2 | 6 | PCE17CS018 | Alfaij Mansuri | https://github.com/alfaijmansuri/MyMLpractice |
