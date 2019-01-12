@@ -31,7 +31,7 @@
 | 26 | | PCE16CE030 | Chahat Jain | https://github.com/Chahat1996/MY-ML-Practice.git |
 | 27 | | PCE16CE310 | Eshan Talwadiya | https://github.com/eshantalwadiya12345/My-ML-Practice.git |
 | 28 | | PCE16CE034 | Diksha Bothra | https://github.com/dikshabothra/My-ML-Practice |
-| 29 | | PCE16CE006 | Aditya Rajora | https://github.com/Adityarajora/MYMLPractice |
+| 29 | 6 | PCE16CE006 | Aditya Rajora | https://github.com/Adityarajora/MYMLPractice |
 | 30 | | PCE16CE062 | Manas | https://github.com/Manaskashyap/My-ML-Practice |
 | 31 | 1 | PCE16CE092 | Shivansh Mathur | https://github.com/Shiva942/my_ML_practice |
 | 32 |  | PCE16CE036 | Disti Jain | https://github.com/distijain98/mymlpractice.git |
