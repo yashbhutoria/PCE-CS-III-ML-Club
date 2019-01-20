@@ -19,16 +19,15 @@
 | 14 | 2 | PCE16CE068 | Mohit Saini | https://github.com/mohit8201/My-ML-Practice |
 | 15 | 4 | PCE16CE075 | Piyush Vaishya | https://github.com/piyushvaishya/My-ML-Practice |
 | 16 |  | PCE16CE080 | Prem Singh Rathore | https://github.com/rathoreprem/MY-ML-PRACTICE |
-| 17 |  | PCE16CE081 | Priyanshi Agrawal | https://github.com/Priyanshi641/My-Practice-ML |
-| 18 | 1 | PCE16CE085 | Rishina Dargar | https://github.com/rishinadargar/My-ML-Practice |
-| 19 |  | PCE16CE087 | Sahil Chopra | https://github.com/sahilcbm/MY-ML-Practicee |
-| 20 |  | PCE16CE088 | Sakshi Agarwal | https://github.com/Sakshi-Agarwal/My-ML-Practice |
-| 21 | 1 | PCE16CE307 | Sanjoli Jain | https://github.com/Sanjolijain04/My-ML-Practice |
-| 22 | 1 | PCE16CE092 | Shivansh Mathur | https://github.com/Shiva942/my_ML_practice |
-| 23 | 7 | PCE16CE094 | Shruti Ganeriwal | https://github.com/shruti224/MyMLPractice |
-| 24 |  | PCE16CE102 | Sudhanshu Jain | https://github.com/blacksag/My-ML-Practice.git |
-| 25 | 3 | PCE16CE104 | Suraj Kumar | https://github.com/srj789/My-Ml-Practice |
-| 26 | 5 | PCE16CE106 | Swapnil Singh | https://github.com/swapnil2306/my_ML_practice |
+| 17 | 1 | PCE16CE085 | Rishina Dargar | https://github.com/rishinadargar/My-ML-Practice |
+| 18 |  | PCE16CE087 | Sahil Chopra | https://github.com/sahilcbm/MY-ML-Practicee |
+| 19 |  | PCE16CE088 | Sakshi Agarwal | https://github.com/Sakshi-Agarwal/My-ML-Practice |
+| 20 | 1 | PCE16CE307 | Sanjoli Jain | https://github.com/Sanjolijain04/My-ML-Practice |
+| 21 | 1 | PCE16CE092 | Shivansh Mathur | https://github.com/Shiva942/my_ML_practice |
+| 22 | 7 | PCE16CE094 | Shruti Ganeriwal | https://github.com/shruti224/MyMLPractice |
+| 23 |  | PCE16CE102 | Sudhanshu Jain | https://github.com/blacksag/My-ML-Practice.git |
+| 24 | 3 | PCE16CE104 | Suraj Kumar | https://github.com/srj789/My-Ml-Practice |
+| 25 | 5 | PCE16CE106 | Swapnil Singh | https://github.com/swapnil2306/my_ML_practice |
 
 ## 2nd Year
 
